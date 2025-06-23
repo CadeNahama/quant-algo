@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+R#!/usr/bin/env python3
 """
 Test script for real data collection with improved error handling.
 """
@@ -20,7 +20,7 @@ from report_generator import ReportGenerator
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
-POLYGON_API_KEY = "F9tCVi7_TL51OBYGnJGVhF96uO72MkGT"
+POLYGON_API_KEY =  #ENTER KEY HERE
 
 def fetch_yfinance_data(symbol: str, start_date: str, end_date: str) -> pd.DataFrame:
     """Fetch daily OHLCV data from Yahoo Finance using yfinance."""
