@@ -47,4 +47,4 @@ The algorithm uses multiple momentum indicators:
 - Maximum drawdown
 - Alpha and beta analysis
 - Information ratio
-- Calmar ratio 
+- Calmar ratio
