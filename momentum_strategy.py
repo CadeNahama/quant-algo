@@ -1021,4 +1021,8 @@ def main():
             print(f"{symbol}: {weight:.3f}")
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main() 
+=======
+    main() 
+>>>>>>> b6f4879 (Add debug output for index alignment and value lookup in stock selection)
